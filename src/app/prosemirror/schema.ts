@@ -20,7 +20,7 @@ export const mySchema = new Schema({
           'img',
           {
             'data-type': 'image',
-            src: 'https://bit.ly/2Crffgq',
+            src: '/assets/food.jpg',
           },
           '',
         ];
